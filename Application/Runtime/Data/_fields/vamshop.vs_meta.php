@@ -1,0 +1,1 @@
+a:7:{i:0;s:2:"id";i:1;s:7:"page_id";i:2;s:8:"meta_key";i:3;s:10:"meta_value";i:4;s:4:"type";s:3:"_pk";s:2:"id";s:5:"_type";a:5:{s:2:"id";s:19:"bigint(20) unsigned";s:7:"page_id";s:19:"bigint(20) unsigned";s:8:"meta_key";s:11:"varchar(20)";s:10:"meta_value";s:4:"text";s:4:"type";s:11:"varchar(20)";}}
